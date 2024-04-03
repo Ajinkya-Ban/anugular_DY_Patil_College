@@ -1,0 +1,21 @@
+Angular Project Setup
+-------
+1. First you have install node.
+2. Second we install angular by using the commnad as command line interface
+	npm install -g @angular/cli 
+3. Check the angular/cli installed or not using the command as,
+	ng version
+4. create the new project using the follwing command 
+	ng  new projectname
+5. To run the angular project use command
+	ng serve
+6. After creating install the angular material icon go to this website
+	https://material.angular.io/guide/getting-started
+7. Install the icons using the commnad which is provided on this website.
+8. To create the new components use the command as 
+	ng g c components/home
+9. To install bootstrap use the command as 
+	ng add @ng-bootstrap/ng-bootstrap
+
+
+Interpolation --->
